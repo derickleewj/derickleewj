@@ -1,8 +1,6 @@
-As Apple products said it best – Hello.
-
 I'm Derick and welcome to my Git page, serving mostly as a record of my personal working solutions to MOOCs and other projects/collaborations. 
 
-New to and self-learning programming and data analytics while previously helping brands tell their story for relatable resonance.
+New to and self-learning programming and data analytics.
 
 <!---
 derickleewj/derickleewj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
